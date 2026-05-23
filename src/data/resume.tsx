@@ -121,7 +121,7 @@ export const DATA = {
   projects: [
     {
       title: "Dynamic Pricing Engine",
-      href: "#",
+      href: "https://www.linkedin.com/in/armaan-rana98/",
       dates: "2024 - Present",
       active: true,
       description:
@@ -132,13 +132,19 @@ export const DATA = {
         "Machine Learning",
         "Pricing Analytics",
       ],
-      links: [],
+      links: [
+        {
+          type: "About",
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "",
       video: "",
     },
     {
       title: "AI Quote Generation Pipeline",
-      href: "#",
+      href: "https://www.linkedin.com/in/armaan-rana98/",
       dates: "2024 - Present",
       active: true,
       description:
@@ -150,13 +156,19 @@ export const DATA = {
         "GenAI",
         "Vector Search",
       ],
-      links: [],
+      links: [
+        {
+          type: "About",
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "",
       video: "",
     },
     {
       title: "Voice AI Bot for Customer Support",
-      href: "#",
+      href: "https://www.linkedin.com/in/armaan-rana98/",
       dates: "2024 - Present",
       active: true,
       description:
@@ -167,13 +179,19 @@ export const DATA = {
         "NLP",
         "Python",
       ],
-      links: [],
+      links: [
+        {
+          type: "About",
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "",
       video: "",
     },
     {
       title: "AI Ops Function",
-      href: "#",
+      href: "https://www.linkedin.com/in/armaan-rana98/",
       dates: "2024 - Present",
       active: true,
       description:
@@ -184,7 +202,13 @@ export const DATA = {
         "LLMs",
         "Workflow Automation",
       ],
-      links: [],
+      links: [
+        {
+          type: "About",
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "",
       video: "",
     },
@@ -197,7 +221,13 @@ export const DATA = {
       description:
         "Recognized for contributions in Analytics and AI: building AI-driven solutions that streamlined operations, enhanced decision-making, and boosted efficiency across the organization.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRO Award",
@@ -206,7 +236,13 @@ export const DATA = {
       description:
         "Recognized for high-impact, results-oriented work driving analytics and automation across the business.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "CX Star",
@@ -215,7 +251,13 @@ export const DATA = {
       description:
         "Awarded for outstanding contribution to customer experience initiatives.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRO Award",
@@ -224,7 +266,13 @@ export const DATA = {
       description:
         "Recognized for high-impact work supporting product analytics and data-driven decisions.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRA Award",
@@ -233,7 +281,13 @@ export const DATA = {
       description:
         "Quarterly recognition for high-impact contribution to analytics and automation projects.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRA Award",
@@ -242,7 +296,13 @@ export const DATA = {
       description:
         "Quarterly recognition for sustained high-performance contribution to the team.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRA Award",
@@ -251,7 +311,13 @@ export const DATA = {
       description:
         "Recognition for impact across automation and dashboard development work.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRA Award",
@@ -260,7 +326,13 @@ export const DATA = {
       description:
         "Recognition for contribution to fraud detection and reporting initiatives.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "HIRO Award",
@@ -269,7 +341,13 @@ export const DATA = {
       description:
         "Recognized within the first quarter at TravClan for high-impact early contributions.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
     {
       title: "Excellence In Academics",
@@ -278,7 +356,13 @@ export const DATA = {
       description:
         "Awarded for academic excellence during senior school years.",
       image: "",
-      links: [],
+      links: [
+        {
+          title: "View on LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/in/armaan-rana98/",
+        },
+      ],
     },
   ],
 } as const;
