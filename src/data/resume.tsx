@@ -16,11 +16,19 @@ export const DATA = {
   skills: [
     { name: "Python", icon: Python },
     { name: "SQL", icon: Python },
+    { name: "Machine Learning", icon: Python },
+    { name: "Deep Learning", icon: Python },
     { name: "LLMs", icon: Python },
     { name: "RAG", icon: Python },
     { name: "GenAI", icon: Python },
-    { name: "Machine Learning", icon: Python },
     { name: "AI Agents", icon: Python },
+    { name: "NLP", icon: Python },
+    { name: "PyTorch", icon: Python },
+    { name: "TensorFlow", icon: Python },
+    { name: "Scikit-learn", icon: Python },
+    { name: "Vertex AI", icon: Python },
+    { name: "Docker", icon: Python },
+    { name: "MLflow", icon: Python },
     { name: "Data Engineering", icon: Python },
   ],
   navbar: [
@@ -250,111 +258,6 @@ export const DATA = {
       location: "TravClan",
       description:
         "Awarded for outstanding contribution to customer experience initiatives.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "HIRO Award",
-      dates: "March 2023",
-      location: "TravClan",
-      description:
-        "Recognized for high-impact work supporting product analytics and data-driven decisions.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "HIRA Award",
-      dates: "November 2022",
-      location: "TravClan",
-      description:
-        "Quarterly recognition for high-impact contribution to analytics and automation projects.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "HIRA Award",
-      dates: "September 2022",
-      location: "TravClan",
-      description:
-        "Quarterly recognition for sustained high-performance contribution to the team.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "HIRA Award",
-      dates: "August 2022",
-      location: "TravClan",
-      description:
-        "Recognition for impact across automation and dashboard development work.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "HIRA Award",
-      dates: "April 2022",
-      location: "TravClan",
-      description:
-        "Recognition for contribution to fraud detection and reporting initiatives.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "HIRO Award",
-      dates: "September 2021",
-      location: "TravClan",
-      description:
-        "Recognized within the first quarter at TravClan for high-impact early contributions.",
-      image: "",
-      links: [
-        {
-          title: "View on LinkedIn",
-          icon: <Icons.linkedin className="h-4 w-4" />,
-          href: "https://www.linkedin.com/in/armaan-rana98/",
-        },
-      ],
-    },
-    {
-      title: "Excellence In Academics",
-      dates: "November 2013",
-      location: "Army Public School Noida",
-      description:
-        "Awarded for academic excellence during senior school years.",
       image: "",
       links: [
         {
