@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon, NotebookIcon, Rss } from "lucide-react";
 import { Python } from "@/components/ui/svgs/python";
 
 export const DATA = {
@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "Analytics Manager at TravClan. Building applied ML, DS, and AI systems for B2B travel.",
   summary:
-    "I lead Analytics, Data Science, and AI at [TravClan](https://travclan.com), India's B2B travel tech platform powering travel agencies across the country. My team builds the systems behind how flights and hotels get priced, how agents are activated and retained, and how AI handles the conversations and quotes that used to require a person. Day to day that means designing dynamic pricing engines, deploying voice and chat AI in support and sales workflows, building agentic systems for ops and CX, and shipping the data infrastructure the rest of the company depends on. Outside work, I write [The International Strategist](https://) on Substack, where I distill global affairs into clear, accessible narratives.",
+    "I lead Analytics, Data Science, and AI at [TravClan](https://travclan.com), India's B2B travel tech platform powering travel agencies across the country. My team builds the systems behind how flights and hotels get priced, how agents are activated and retained, and how AI handles the conversations and quotes that used to require a person. Day to day that means designing dynamic pricing engines, deploying voice and chat AI in support and sales workflows, building agentic systems for ops and CX, and shipping the data infrastructure the rest of the company depends on. Outside work, I write [The International Strategist](https://substack.com/@theintlstrat) on Substack, where I distill global affairs into clear, accessible narratives.",
   avatarUrl: "/me.png",
   skills: [
     { name: "Python", icon: Python },
@@ -33,15 +33,33 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/armaanrana",
+        url: "https://github.com/armaanrana98",
         icon: Icons.github,
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/armaan-rana98",
+        url: "https://www.linkedin.com/in/armaan-rana98/",
         icon: Icons.linkedin,
         navbar: true,
+      },
+      Substack: {
+        name: "Substack",
+        url: "https://substack.com/@theintlstrat",
+        icon: Rss,
+        navbar: true,
+      },
+      X: {
+        name: "X",
+        url: "https://www.linkedin.com/in/armaan-rana98/",
+        icon: Icons.x,
+        navbar: false,
+      },
+      Youtube: {
+        name: "Youtube",
+        url: "https://www.linkedin.com/in/armaan-rana98/",
+        icon: Icons.youtube,
+        navbar: false,
       },
       email: {
         name: "Send Email",
