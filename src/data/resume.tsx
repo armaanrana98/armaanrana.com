@@ -107,18 +107,6 @@ export const DATA = {
       description:
         "Led automation projects across operations, streamlining processes and reducing manual effort. Developed interactive dashboards and data visualizations facilitating insights for stakeholders at multiple organizational levels. Created fraud detection models analyzing transactional data. Built SQL reporting pipelines supporting day-to-day data-driven decision making across travel operations.",
     },
-    {
-      company: "Impact Consulting",
-      href: "#",
-      badges: [],
-      location: "New Delhi, India",
-      title: "APAC Consultant",
-      logoUrl: "/impact.png",
-      start: "Jan 2021",
-      end: "Jun 2021",
-      description:
-        "Freelance consulting engagement across APAC markets, supporting research and analysis projects.",
-    },
   ],
   education: [
     {
@@ -201,5 +189,96 @@ export const DATA = {
       video: "",
     },
   ],
-  hackathons: [],
+  hackathons: [
+    {
+      title: "Pillar of Excellence",
+      dates: "June 2025",
+      location: "TravClan",
+      description:
+        "Recognized for contributions in Analytics and AI: building AI-driven solutions that streamlined operations, enhanced decision-making, and boosted efficiency across the organization.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRO Award",
+      dates: "January 2024",
+      location: "TravClan",
+      description:
+        "Recognized for high-impact, results-oriented work driving analytics and automation across the business.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "CX Star",
+      dates: "December 2023",
+      location: "TravClan",
+      description:
+        "Awarded for outstanding contribution to customer experience initiatives.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRO Award",
+      dates: "March 2023",
+      location: "TravClan",
+      description:
+        "Recognized for high-impact work supporting product analytics and data-driven decisions.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRA Award",
+      dates: "November 2022",
+      location: "TravClan",
+      description:
+        "Quarterly recognition for high-impact contribution to analytics and automation projects.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRA Award",
+      dates: "September 2022",
+      location: "TravClan",
+      description:
+        "Quarterly recognition for sustained high-performance contribution to the team.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRA Award",
+      dates: "August 2022",
+      location: "TravClan",
+      description:
+        "Recognition for impact across automation and dashboard development work.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRA Award",
+      dates: "April 2022",
+      location: "TravClan",
+      description:
+        "Recognition for contribution to fraud detection and reporting initiatives.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "HIRO Award",
+      dates: "September 2021",
+      location: "TravClan",
+      description:
+        "Recognized within the first quarter at TravClan for high-impact early contributions.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "Excellence In Academics",
+      dates: "November 2013",
+      location: "Army Public School Noida",
+      description:
+        "Awarded for academic excellence during senior school years.",
+      image: "",
+      links: [],
+    },
+  ],
 } as const;
